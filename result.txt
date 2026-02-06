@@ -1,0 +1,41 @@
+2026-02-06 15:55:41 
+#Instance Center486_G0:  
+Jury Compactness: 0.323665893, Balance: 0.000000000
+Participant Compactness: 0.367749420, Balance: 0.000556799
+-1 Balance violation solution from participant! Participant_balance = 0.000557
+#Instance Center486_G1:  
+Jury Compactness: 0.395585739, Balance: 0.000000000
+Participant Compactness: 0.502546689, Balance: 0.000000000
+-1 Worse solution! Jury_compactness = 0.395586 Participant_compactness = 0.502547
+#Instance Center486_G2:  
+Jury Compactness: 0.340874811, Balance: 0.000000000
+Participant Compactness: 0.431372549, Balance: 0.000000000
+-1 Worse solution! Jury_compactness = 0.340875 Participant_compactness = 0.431373
+#Instance Center486_G3:  
+Jury Compactness: 0.897703549, Balance: 0.000000000
+Participant Compactness: 0.651356994, Balance: 0.000000000
+1 Better solution! Jury_compactness = 0.897704 Participant_compactness = 0.651357
+#Instance Center486_G4:  
+Jury Compactness: 0.704896907, Balance: 0.000000000
+Participant Compactness: 0.452319588, Balance: 0.000000000
+1 Better solution! Jury_compactness = 0.704897 Participant_compactness = 0.452320
+#Instance Center486_G5:  
+Jury Compactness: 0.868821293, Balance: 0.000000000
+Participant Compactness: 0.461977186, Balance: 0.000000000
+1 Better solution! Jury_compactness = 0.868821 Participant_compactness = 0.461977
+#Instance Center486_G6:  
+Jury Compactness: 0.799618321, Balance: 0.002499530
+Participant Compactness: 0.583969466, Balance: 0.000000000
+2 Balance violation solution for Jury, Valid solution from participant! Participant_compactness = 0.583969
+#Instance Center486_G7:  
+Jury Compactness: 0.865454545, Balance: 0.000000000
+Participant Compactness: 0.603636364, Balance: 0.000000000
+1 Better solution! Jury_compactness = 0.865455 Participant_compactness = 0.603636
+#Instance Center486_G8:  
+Jury Compactness: 0.957894737, Balance: 0.000000000
+Participant Compactness: 0.607017544, Balance: 0.000000000
+1 Better solution! Jury_compactness = 0.957895 Participant_compactness = 0.607018
+#Instance Center486_G9:  
+Jury Compactness: 0.608000000, Balance: 0.000000000
+Participant Compactness: 0.486000000, Balance: 0.000000000
+1 Better solution! Jury_compactness = 0.608000 Participant_compactness = 0.486000
